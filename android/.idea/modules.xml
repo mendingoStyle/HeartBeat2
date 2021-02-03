@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/teste.iml" filepath="$PROJECT_DIR$/.idea/modules/teste.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/teste.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/teste.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/80116589/teste.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/80116589/teste.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-268625428/teste.react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-268625428/teste.react-native-community_async-storage.iml" />
+    </modules>
+  </component>
+</project>
